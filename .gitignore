@@ -1,0 +1,14 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore dependency folders
+node_modules/
+venv/
+__pycache__/
+
+# Ignore environment variables
+.env
+
+# Ignore VS Code settings
+.vscode/
